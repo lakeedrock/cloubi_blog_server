@@ -47,7 +47,7 @@ SECRET= Secret for JWT token
 
 ## Run the Project
 
-Go to the project root directory nd run following command to run the project
+Go to the project root directory and run following command to run the project
 
 ```sh
 docker-compose up
